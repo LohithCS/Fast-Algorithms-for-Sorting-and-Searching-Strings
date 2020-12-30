@@ -22,3 +22,8 @@ Illustration to search in the tree:
 1. Start from the root.
 2. Compare the searching element with root, if less than root, then recurse for left, else recurse for right. 
 3. If the element to search is found anywhere, return true, else return false. 
+
+
+for more info: visit the below link
+
+https://en.wikipedia.org/wiki/Binary_search_algorithm
